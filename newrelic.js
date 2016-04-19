@@ -8,11 +8,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['pumpkin-tart-71750'],
+  app_name: ['tranquil-gorge-94876'],
   /**
    * Your New Relic license key.
    */
-  license_key: 'eee61b7f7f91dd27420975c00ae02d8f97bb6922',
+  license_key: '6d687e5f29d7be947d5a356acd6c437230b7179e',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
